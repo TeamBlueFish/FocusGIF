@@ -1,0 +1,9 @@
+c:\users\dns\documents\visual studio 2012\Projects\FocusGif\FocusGif\bin\Debug\FocusGif.exe.config
+c:\users\dns\documents\visual studio 2012\Projects\FocusGif\FocusGif\bin\Debug\FocusGif.exe
+c:\users\dns\documents\visual studio 2012\Projects\FocusGif\FocusGif\bin\Debug\FocusGif.pdb
+c:\users\dns\documents\visual studio 2012\Projects\FocusGif\FocusGif\obj\Debug\FocusGif.csprojResolveAssemblyReference.cache
+c:\users\dns\documents\visual studio 2012\Projects\FocusGif\FocusGif\obj\Debug\FocusGif.FocusGif.resources
+c:\users\dns\documents\visual studio 2012\Projects\FocusGif\FocusGif\obj\Debug\FocusGif.Properties.Resources.resources
+c:\users\dns\documents\visual studio 2012\Projects\FocusGif\FocusGif\obj\Debug\FocusGif.csproj.GenerateResource.Cache
+c:\users\dns\documents\visual studio 2012\Projects\FocusGif\FocusGif\obj\Debug\FocusGif.exe
+c:\users\dns\documents\visual studio 2012\Projects\FocusGif\FocusGif\obj\Debug\FocusGif.pdb
